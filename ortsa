@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2/epg/main/unifitv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 ############################## Malay  ########################################
@@ -712,7 +712,8 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 ##https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG38c8tSuYvV4xB7HxHb9MRYU=uV4u/dash-wv/jitp-linearwm/2104/default.mpd
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts
+##http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts
+http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=918985&extension=ts
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTc3OTE3NywiaWF0IjoxNjgxMTc1MTc3fQ.6bFHw0LVyKJHrN98YxR0iRwKkoGrOq5Y-khxkyB6NcU"} 
@@ -727,9 +728,9 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 ##https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_9460I6hM6QHRJrNDFgHStc=EkAr/dash-wv/jitp-linearwm/2701/default.mpd
 ##http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
+##EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=918984&extension=ts
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTc3OTE3NywiaWF0IjoxNjgxMTc1MTc3fQ.6bFHw0LVyKJHrN98YxR0iRwKkoGrOq5Y-khxkyB6NcU"} 
