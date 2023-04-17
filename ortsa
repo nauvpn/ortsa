@@ -723,10 +723,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&exten
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-#https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_9460I6hM6QHRJrNDFgHStc=EkAr/dash-wv/jitp-linearwm/2701/default.mpd
-#http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
+##https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_9460I6hM6QHRJrNDFgHStc=EkAr/dash-wv/jitp-linearwm/2701/default.mpd
+##http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8|referer=https://streamservicehd.click/
 
