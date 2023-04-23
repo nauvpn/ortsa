@@ -655,6 +655,14 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5101
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 
+#EXTINF:-1 tvg-id="AstroArenaBola3"" ch-number="807" tvg-name="Arena Bola 3" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola3_v1.png" group-title="Sports", 807 Arena Bola 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjU3NTg2OSwiaWF0IjoxNjgxOTcxODY5fQ.Kijna6Se369AhZtcHJdeV-0ckbNn-zwxs2i1SAVgNr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
 #EXTINF:-1 tvg-id="AstroArenaBola4"" ch-number="808" tvg-name="Arena Bola 4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola4.png" group-title="Sports", 808 Arena Bola 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5102
