@@ -4,10 +4,10 @@
 
 #EXTINF:-11 tvg-id="11" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Sports",Champions TV World Cup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptif.license_key={ "keys":[ { "kty":"oct", "k":"tSOxSHTYZEeTA0y2kpdnlQ", "kid":"KW3i/581QQ8RS2QLfZd+Hw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tSOxSHTYZEeTA0y2kpdnlQ", "kid":"KW3i/581QQ8RS2QLfZd+Hw" } ], "type":"temporary" }
 https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
 
 #EXTINF:-12 tvg-id="12" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptif.license_key={ "keys":[ { "kty":"oct", "k":"8v24mHVHYPr/4SpOCn6Xrg", "kid":"VIDdwdHjuI1kknhch6xqkg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8v24mHVHYPr/4SpOCn6Xrg", "kid":"VIDdwdHjuI1kknhch6xqkg" } ], "type":"temporary" }
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
