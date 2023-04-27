@@ -1,35 +1,27 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Knowledge",nickjr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-#EXTINF:0 tvg-id="cartoon" group-title="Kids & Knowledge",cartoonnetwork
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",aniplus_USEE
-https://streaming.useetv.com/dass/134/aniplus_dash/manifest_wuseetv.mpd?enc=Px9FQcwhD2Hgqb5O5HQYDQ&exp=1630299909&encp=35Sgk_ODiCzcToS1U8sMfA&expp=1630310409
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",BeSmart
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Kids & Knowledge",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Kids & Knowledge",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",Smithsonian
-https://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",TV-Edukasi
-https://gpc.my.id/vidio/tv-edukasi.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",Love-Nature
-https://gpc.my.id/vidio/love-nature.m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Kids & Knowledge",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",natgeo_USEE
-https://streaming.useetv.com/dass/133/natgeo_dash/manifest_wuseetv.mpd?enc=T7EIjKPV2UABQglzFcDZ-Q&exp=1630299909&encp=JL2TRyBrJjOfV-GyMvMt5g&expp=1630310409
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",natgeopeople_USEE
-https://streaming.useetv.com/dass/133/natgeopeople_dash/manifest_wuseetv.mpd?enc=3cV1tHK5aEeArGhirTTAZw&exp=1630299910&encp=DVY6qL-VDD2UkJNNdfFj7w&expp=1630310410
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",natgeowild_USEE
-https://streaming.useetv.com/dass/133/natgeowild_dash/manifest_wuseetv.mpd?enc=hrr-Yu342uPIRM565hduMw&exp=1630299910&encp=KbT_eBw2SPJydFn-6e99Gw&expp=1630310410
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",disco_USEE
-https://streaming.useetv.com/dass/133/disco_dash/manifest_wuseetv.mpd?enc=DKE0BnEXnfng4MixbzrHFQ&exp=1630299912&encp=QP0h5I1d8ONqzEkLx7gCgg&expp=1630310412
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",cgtndocumentary_USEE
-https://gpc.my.id/usee/cgtndocumentary.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids & Knowledge",lingua_USEE
-https://streaming.useetv.com/dass/133/lingua/manifest_wuseetv.mpd?enc=GqZcRpSgX3jjECtFtGdBxA&exp=1630299912&encp=bv7YlsvL2tcl7qnoZZSb8Q&expp=1630310412
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT",Astro SuperSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
