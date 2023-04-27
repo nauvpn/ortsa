@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",astro vod
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/d5ad7b51-3dc2-536d-8472-a96a6c785e3b/default_dash.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
