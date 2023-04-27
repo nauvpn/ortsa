@@ -22,7 +22,8 @@ https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f
 #KODIPROP:inputstream.adaptive.license_key=9cb5cc747f5f71e381f0c7d71863eb6a:c70742da755e9a27217223f56b8a8266
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=923deae82891e37b282b71ba508fb3bc:62c82a4c668811372b4eb374bd75c55b
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
@@ -31,7 +32,8 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 #KODIPROP:inputstream.adaptive.license_key=296de2ff9f35410f114b640b7d977e1f:b523b14874d8644793034cb692976795
 https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV World Cup 2" tvg-logo="https://thumbor.prod.vidiocdn.com/8SkhiRifecKAHvYGK3JsUcoW5Yk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-a24e9a.jpg" group-title="SPORTS",Champions TV World Cup 2#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV World Cup 2" tvg-logo="https://thumbor.prod.vidiocdn.com/8SkhiRifecKAHvYGK3JsUcoW5Yk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-a24e9a.jpg" group-title="SPORTS",Champions TV World Cup 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5480ddc1d1e3b88d6492785c87ac6a92:f2fdb898754760faffe12a4e0a7e97ae
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
 
