@@ -1,27 +1,74 @@
 #EXTM3U
+#listby_LaoHac
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 SuperSport (Sooka)
+
+
+#EXTINF:-1 tvg-id="ChampionsTVEPL.id"  tvg-logo="https://i.ibb.co/jkbDQTX/champions-EPL.webp" group-title="📺|Vidio-ChampionsTV",Champions TV EPL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/s1/
-http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=chamepl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 (Sooka)
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="📺|Vidio-ChampionsTV",Champions TV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 (Sooka)
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="📺|Vidio-ChampionsTV",Champions TV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
-http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 SuperSport 4 (Sooka)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
-http://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
-#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",815 SuperSport 5 (Sooka)
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="📺|Vidio-ChampionsTV",Champions TV 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
-http://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="📺|Vidio-ChampionsTV",Champions TV 5 (Live EPL)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id"  tvg-logo="https://i.ibb.co/jLY1Q62/champions6.webp" group-title="📺|Vidio-ChampionsTV",Champions TV 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="📺|Vidio-ChampionsTV",NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvnba
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://i.ibb.co/0ZhMGwP/BEIN1ID.png" group-title="📺|Vidio-ChampionsTV",Bein Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id"  tvg-logo="https://i.ibb.co/njxR2Q6/BEIN3ID.png" group-title="📺|Vidio-ChampionsTV",Bein Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctvbein3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
