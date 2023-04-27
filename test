@@ -1,36 +1,27 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",BEIN 4
-https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",test 1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",test 2
-https://web.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png", test 3
-https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png", test 4
-https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-id="beINSports5" group-title="SPORTS" ch-number="808" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", beIN Sports 5 (Backup)
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 SuperSport (Sooka)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sooka/masterCH5/
-https://linear07-playback.sooka.my/CH5/masterCH5.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/s1/
+http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="beINSports4" group-title="SPORTS" ch-number="809" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", beIN Sports 4 HD (Backup)
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 (Sooka)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sooka/masterCH1/
-https://linear04-playback.sooka.my/CH1/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 (Sooka)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 SuperSport 4 (Sooka)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",815 SuperSport 5 (Sooka)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
