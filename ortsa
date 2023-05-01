@@ -678,7 +678,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="808" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",808 SuperSport
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="808" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",808 SuperSport (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzE4OTk5MywiaWF0IjoxNjgyNTg1OTkzfQ.SwvF42BLukvbqMIRNllhyAidMwegJHjKzKckbehikC0"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/sooka/masterCH5/
@@ -689,7 +689,7 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="809" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 SuperSport
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="809" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 SuperSport (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzE4OTk5MywiaWF0IjoxNjgyNTg1OTkzfQ.SwvF42BLukvbqMIRNllhyAidMwegJHjKzKckbehikC0"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" } 
