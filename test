@@ -53,4 +53,4 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 https://ortsa8.github.io/stream/now_s1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
-https://ortsa8.github.io/stream/now_s2.m3u8
+https://ortsa8.github.io/stream/now_s2.ts
