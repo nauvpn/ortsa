@@ -54,3 +54,17 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/now_s1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/now_s2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="s1" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="s1" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt4.m3u8
