@@ -49,22 +49,102 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="s1" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s1
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/now_s1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/201-hub-sports-1.png", HUB sports 1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/now_s2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/202-hub-sports-2.png", HUB sports 2
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs2.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-hub-sports-4.png", HUB sports 4
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="s1" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s1
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", HUB PREMIER 1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HUB PREMIER 2
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", HUB PREMIER 3
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", HUB PREMIER 4
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png", HUB PREMIER 5
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png", HUB PREMIER 6
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png", HUB PREMIER 7
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp7.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png", HUB PREMIER 8
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp8.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80", now SPORTS 1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_110_80", now SPORTS 2
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_110_80", now SPORTS 3
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_110_80", now SPORTS 4
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_110_80", now SPORTS 5
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_110_80", now SPORTS 6
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_110_80", now SPORTS 7
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows7.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", now SPORTS PL 1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nowp1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10068955/ident/1_256x144.png?overlaygradient=0
+", BT SPORT 1
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10068953/ident/1_256x144.png?overlaygradient=0", BT SPORT 2
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt2.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="s1" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s1
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/21871577/ident/1_256x144.png?overlaygradient=0", BT SPORT 3
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="SPORTS",s2
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10845218/ident/1_256x144.png?overlaygradient=0", BT SPORT 4
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Logo.svg?U2t5IFNwb3J0cyBNYWluIEV2ZW50", sky sports main event
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", sky sports premier league
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/sspl.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==", sky sports football
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssfb.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1333-Logo.svg?U2t5IFNwb3J0cyBBY3Rpb24=", sky sports action
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssac.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3839-Logo.svg?U2t5IFNwb3J0cyBBcmVuYSA=", sky sports arena 
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssar.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1302-Logo.svg?U2t5IFNwb3J0cyBDcmlja2V0", sky sports criket
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.svg?U2t5IFNwb3J0cyBGMSA=", sky sports F1 
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.svg?U2t5IFNwb3J0cyBHb2xm", sky sports golf
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssg.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/4091-Logo.svg?U2t5IFNwb3J0cyBNaXg=", sky sports mix
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmix.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1314-Logo.svg?U2t5IFNwb3J0cyBOZXdz", sky sports news
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssnews.m3u8
