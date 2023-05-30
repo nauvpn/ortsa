@@ -118,32 +118,32 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt3.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10845218/ident/1_256x144.png?overlaygradient=0", BT SPORT 4
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1301.png", sky sports main event
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Mobile-Logo.png", sky sports main event
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Mobile-Logo.svg?", sky sports premier league
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Mobile-Logo.png", sky sports premier league
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/sspl.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Mobile-Logo.svg?", sky sports football
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Mobile-Logo.png", sky sports football
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssfb.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1333-Mobile-Logo.svg?", sky sports action
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1333-Mobile-Logo.png", sky sports action
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssac.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3839-Mobile-Logo.svg?", sky sports arena 
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/3839-Mobile-Logo.png", sky sports arena 
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssar.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1302-Mobile-Logo.svg?", sky sports criket
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1302-Mobile-Logo.png", sky sports criket
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Mobile-Logo.svg?", sky sports F1 
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Mobile-Logo.png", sky sports F1 
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Mobile-Logo.svg?", sky sports golf
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Mobile-Logo.png", sky sports golf
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssg.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/4091-Mobile-Logo.svg?", sky sports mix
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/4091-Mobile-Logo.png", sky sports mix
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmix.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg?", sky sports news
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1314-Mobile-Logo.png", sky sports news
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssnews.m3u8
