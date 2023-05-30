@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt3.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10845218/ident/1_256x144.png?overlaygradient=0", BT SPORT 4
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Mobile-Logo.svg?", sky sports main event
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1301.png", sky sports main event
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Mobile-Logo.svg?", sky sports premier league
