@@ -456,6 +456,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="560",560 Discovery Science
+http://4cms.cc:8080/SCVQvhYjcu6P4gLNfhbH4/riyWjpowPb/312523
+
 
 
 ########################################################## KIDS   #########################################################
