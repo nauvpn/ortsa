@@ -50,7 +50,7 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/201-hub-sports-1.png", HUB sports 1
-http://4cms.cc:8080/SCVQvhYjcu6P4gLNfhbH4/riyWjpowPb/312523
+https://raw.githubusercontent.com/Ortsa8/stream/main/test.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/202-hub-sports-2.png", HUB sports 2
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs2.m3u8
