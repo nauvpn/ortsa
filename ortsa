@@ -197,7 +197,8 @@ https://linears-playback.astro.com.my/vsgN/41mHUG5fGhSkQ6TdZugNKPjNgPC86rE3TxC0Z
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
+###KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
+#KODIPROP:inputstream.adaptive.license_key={'89de71cf39be0946dec828edff84d010':'9d5e036094bb77cbaf8867d3272c66d0'}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default.mpd
 
 #EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Chinese",309 Celestial Movies
