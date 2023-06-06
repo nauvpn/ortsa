@@ -739,11 +739,8 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG37WF4Butu2RNZsJuRAgmbJo=mC4j/dash-wv/jitp-linearwm/2104/default.mpd
-##http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts
-##http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=918985&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-##https://webudit.salamus1.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
+##https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG37WF4Butu2RNZsJuRAgmbJo=mC4j/dash-wv/jitp-linearwm/2104/default.mpd
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4NjMzODkyMSwiaWF0IjoxNjg1NzM0OTIxfQ.Np9GW7rgc7U2_PnijtyCSGn6GFyvUKzriBU-V49EFxo"}
@@ -754,11 +751,8 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_3sHFWn14CqwtryT0ZkJWyA=JOZP/dash-wv/jitp-linearwm/2701/default.mpd
-##http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts
-##http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=918984&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-##https://webudit.salamus1.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
+##https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_3sHFWn14CqwtryT0ZkJWyA=JOZP/dash-wv/jitp-linearwm/2701/default.mpd
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp3.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4NjMzODkyMSwiaWF0IjoxNjg1NzM0OTIxfQ.Np9GW7rgc7U2_PnijtyCSGn6GFyvUKzriBU-V49EFxo"}
