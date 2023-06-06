@@ -147,3 +147,18 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmix.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/358f5e1f-5cc9-50b7-ab79-42bb7c3f347c/logo.png", sky sports news
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssnews.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
+#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
+https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227553/3221227553.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
+#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
+https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227556/3221227556.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
+#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
+https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd
