@@ -458,7 +458,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="560",560 Discovery Science
-http://4cms.cc:8080/SCVQvhYjcu6P4gLNfhbH4/riyWjpowPb/312523
+https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissci.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="561",561 Discovery Science CA
+https://raw.githubusercontent.com/Ortsa8/stream/main/docu/disscica.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="562",562 Nat Geo
+https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="563",563 Nat Geo UK
+https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="564",564 Nat Geo Wild UK
+https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
 
 
 
