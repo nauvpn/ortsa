@@ -457,19 +457,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="560",560 Discovery Science
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.transvision.co.id/img/channel/sci.png" ch-number="560",560 Discovery Science
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissci.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="561",561 Discovery Science CA
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.transvision.co.id/img/channel/sci.png" ch-number="561",561 Discovery Science CA
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/disscica.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="562",562 Nat Geo
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" ch-number="562",562 Nat Geo
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="563",563 Nat Geo UK
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" ch-number="563",563 Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="" ch-number="564",564 Nat Geo Wild UK
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" ch-number="564",564 Nat Geo Wild UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
 
 
