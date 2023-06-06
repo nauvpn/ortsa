@@ -872,6 +872,9 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-hub-sports-4.png", HUB sports 4
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs4.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HUB PREMIER 2 4K
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp24k.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", HUB PREMIER 1
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp1.m3u8
 
@@ -895,6 +898,9 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp7.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png", HUB PREMIER 8
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp8.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80", now SPORTS 1 4K
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows14k.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80", now SPORTS 1
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows1.m3u8
