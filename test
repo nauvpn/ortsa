@@ -49,121 +49,51 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/201-hub-sports-1.png", HUB sports 1
-https://raw.githubusercontent.com/Ortsa8/stream/main/test.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/202-hub-sports-2.png", HUB sports 2
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-hub-sports-4.png", HUB sports 4
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubs4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", HUB PREMIER 1
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HUB PREMIER 2
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", HUB PREMIER 3
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", HUB PREMIER 4
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png", HUB PREMIER 5
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp5.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png", HUB PREMIER 6
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp6.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png", HUB PREMIER 7
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp7.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png", HUB PREMIER 8
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/hubp8.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80", now SPORTS 1
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_110_80", now SPORTS 2
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_110_80", now SPORTS 3
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_110_80", now SPORTS 4
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_110_80", now SPORTS 5
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows5.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_110_80", now SPORTS 6
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows6.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_110_80", now SPORTS 7
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nows7.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", now SPORTS PL 1
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/nowp1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Mobile-Logo.png", BT SPORT 1
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10068953/ident/1_256x144.png?overlaygradient=0", BT SPORT 2
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/21871577/ident/1_256x144.png?overlaygradient=0", BT SPORT 3
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://images-live.youview.tv/images/entity/10845218/ident/1_256x144.png?overlaygradient=0", BT SPORT 4
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/bt4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/3e747b7c-7ee4-556e-b21f-af1c9c44375e/logo.png", sky sports main event
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/b7a17396-ed24-57fa-8070-1189ba659ab5/logo.png", sky sports premier league
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/sspl.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/d6386094-d216-5906-a4f1-fcc0090abb82/logo.png", sky sports football
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssfb.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_action_2_web.png", sky sports action
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssac.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_arena_2_web.png", sky sports arena 
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssar.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_cricket_2_web.png", sky sports criket
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_f1_2_web.png", sky sports F1 
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_golf_2_web.png", sky sports golf
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssg.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://www.tvsportguide.com/media/2018/04/skysports_mix_2_web.png", sky sports mix
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmix.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Extra" ch-number="" tvg-logo="https://cdn.tv-guide.future.sensi.link/images/channel/358f5e1f-5cc9-50b7-ab79-42bb7c3f347c/logo.png", sky sports news
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssnews.m3u8
-
-#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
-https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd?accountinfo=ls7jKoPJ0ifbyNc7kLC9xtnmILyP66QJOd9kJjhZ%2FJqusLvyaMuH3cGgVwy%2BTsplvOv2KLd15fHiU%2B9jRVwThImOPTfFFtIiOgLHhmqf7zRD8LifjWhWAsv%2FkUa4NXvD&tenantId=6003&GuardEncType=2
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="KNOWLEDGE",Discovery Science (T*)
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=ls7jKoPJ0ifbyNc7kLC9xtnmILyP66QJOd9kJjhZ%2FJqusLvyaMuH3cGgVwy%2BTsplvOv2KLd15fHiU%2B9jRVwThImOPTfFFtIiOgLHhmqf7zRD8LifjWhWAsv%2FkUa4NXvD&tenantId=6003&GuardEncType=2
 
-#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
-https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?accountinfo=ls7jKoPJ0ifbyNc7kLC9xtnmILyP66QJOd9kJjhZ%2FJqusLvyaMuH3cGgVwy%2BTsplvOv2KLd15fHiU%2B9jRVwThImOPTfFFtIiOgLHhmqf7zRD8LifjWhWAsv%2FkUa4NXvD&tenantId=6003&GuardEncType=2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="C-Knowledge",Nat Geo Channel
+https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 group-title="Preview Channel" tvg-id="CHN" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NmI5YmE1MGQtMGYyNy0zMGFkLWFjM2YtMGNlY2ZmZWU0ZjYz
-https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?accountinfo=ls7jKoPJ0ifbyNc7kLC9xtnmILyP66QJOd9kJjhZ%2FJqusLvyaMuH3cGgVwy%2BTsplvOv2KLd15fHiU%2B9jRVwThImOPTfFFtIiOgLHhmqf7zRD8LifjWhWAsv%2FkUa4NXvD&tenantId=6003&GuardEncType=2
+#EXTINF:-1  tvg-id="Ch 5" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
+
+#EXTINF:-1 tvg-id="Ch 8" tvg-language="English" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
+
+#EXTINF:-1 tvg-id="Ch U" tvg-language="English" group-title="Singapore - Local" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
+#EXTINF:-1 group-title="Anime" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (Singapore Feed)
+https://aqfadtv.xyz/live/mewatch/animax/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
+#EXTINF:-1 group-title="Japanese" tvg-id="SGEM.id" ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM (Singapore Feed)
+https://aqfadtv.xyz/live/mewatch/gem/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
+#EXTINF:-1 group-title="Entertainment" tvg-id="473" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment (Singapore Feed)
+https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
+#EXTINF:-1 group-title="Movies" tvg-id="474" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action (Singapore Feed)
+https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
