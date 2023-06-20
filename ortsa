@@ -659,13 +659,18 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/docu/dissci.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.transvision.co.id/img/channel/sci.png" ch-number="561",561 Discovery Science CA
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/disscica.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" ch-number="562",562 Nat Geo
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" ch-number="562",562 Nat Geo US
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" ch-number="563",563 Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" ch-number="564",564 Nat Geo Wild UK
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Documentaries",564 Nat Geo ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" ch-number="564",565 Nat Geo Wild UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
 
 
@@ -1235,3 +1240,40 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/abn/nbarp16.m3u8
 https://raw.githubusercontent.com/Ortsa8/stream/main/abn/nbarp17.m3u8
 
 
+############################  Singapore  #####################################
+
+
+#EXTINF:-1  tvg-id="Ch 5" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel5_v1.png",Channel 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
+
+#EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Channel8_v1.png",Channel 8 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
+
+#EXTINF:-1 tvg-id="Ch U" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/ChannelU_v1.png",Channel U 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
+
+#EXTINF:-1 tvg-id="Animax" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
+https://aqfadtv.xyz/live/mewatch/animax/index.mpd
+
+#EXTINF:-1 tvg-id="SGEM.id" group-title="Singapore"  ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
+https://aqfadtv.xyz/live/mewatch/gem/index.mpd
+
+#EXTINF:-1 tvg-id="473" group-title="Singapore" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
+https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
+
+#EXTINF:-1 tvg-id="474" group-title="Singapore"  ch-number="474" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
+https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
