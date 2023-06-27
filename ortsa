@@ -1283,43 +1283,43 @@ https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 #######################  China  ################################
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
-https://cntv.sbs/live?auth=230612&id=cctv1
+http://39.134.61.219/PLTV/88888888/224/3221226896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
-https://cntv.sbs/live?auth=230612&id=cctv2
+http://39.134.61.219/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3
-https://cntv.sbs/live?auth=230612&id=cctv3
+http://39.134.61.219/PLTV/88888888/224/3221226889/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4
-https://ortsa8.github.io/stream/test.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5
-https://cntv.sbs/live?auth=230612&id=cctv5
+http://39.134.61.219/PLTV/88888888/224/3221226944/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+
-https://cntv.sbs/live?auth=230612&id=cctv5p
+http://39.134.61.219/PLTV/88888888/224/3221227092/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6
-https://cntv.sbs/live?auth=230612&id=cctv6
+http://39.134.61.219/PLTV/88888888/224/3221226891/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7
-https://cntv.sbs/live?auth=230612&id=cctv7
+http://39.134.61.219/PLTV/88888888/224/3221226925/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8
-https://cntv.sbs/live?auth=230612&id=cctv8
+http://39.134.61.219/PLTV/88888888/224/3221226946/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9
-https://cntv.sbs/live?auth=230612&id=cctv9
+http://39.134.61.219/PLTV/88888888/224/3221226849/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10
-https://cntv.sbs/live?auth=230612&id=cctv10
+http://39.134.61.219/PLTV/88888888/224/3221226904/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11
-https://cntv.sbs/live?auth=230612&id=cctv11
+http://39.134.61.219/PLTV/88888888/224/3221226851/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12
-https://cntv.sbs/live?auth=230612&id=cctv12
+http://39.134.61.219/PLTV/88888888/224/3221226906/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13
-https://cntv.sbs/live?auth=230612&id=cctv13
+http://39.134.61.219/PLTV/88888888/224/3221226481/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14
-https://cntv.sbs/live?auth=230612&id=cctv14
+http://39.134.61.219/PLTV/88888888/224/3221226908/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15
-https://cntv.sbs/live?auth=230612&id=cctv15
+http://39.134.61.219/PLTV/88888888/224/3221226855/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16
-https://cntv.sbs/live?auth=230612&id=cctv16
+http://39.134.61.219/PLTV/88888888/224/3221226910/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 https://cntv.sbs/live?auth=230612&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
-https://cntv.sbs/live?auth=230612&id=cctv17
+http://39.134.61.219/PLTV/88888888/224/3221226857/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
 https://cntv.sbs/live?auth=230612&id=cctv4k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
@@ -1367,7 +1367,7 @@ https://cntv.sbs/live?auth=230612&id=jxws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 https://cntv.sbs/live?auth=230612&id=jsws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.sbs/live?auth=230612&id=zjws
+http://39.134.61.219/PLTV/88888888/224/3221227078/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 https://cntv.sbs/live?auth=230612&id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
