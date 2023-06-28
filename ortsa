@@ -20,7 +20,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 ##https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-http://thefirefox12537.github.io/streams/astro/ria.m3u8
+##http://thefirefox12537.github.io/streams/astro/ria.m3u8
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Malay" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -943,7 +944,8 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 ##https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG37WF4Butu2RNZsJuRAgmbJo=mC4j/dash-wv/jitp-linearwm/2104/default.mpd
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379980.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 SuperSport 2 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODU0MTAxMywiaWF0IjoxNjg3OTM3MDEzfQ.uWyfX2OLNjz-7m1BOzBSGh-u8kDumkX6feb-GdMNsgA"}
@@ -955,7 +957,8 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 ##https://linears-playback.astro.com.my/vsg/411LSIC5y9YT73Mj1UGwl0_3sHFWn14CqwtryT0ZkJWyA=JOZP/dash-wv/jitp-linearwm/2701/default.mpd
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp3.m3u8
+##https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp3.m3u8
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379982.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 SuperSport 3 (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODU0MTAxMywiaWF0IjoxNjg3OTM3MDEzfQ.uWyfX2OLNjz-7m1BOzBSGh-u8kDumkX6feb-GdMNsgA"}
