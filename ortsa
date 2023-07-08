@@ -187,8 +187,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
-https://linears-playback.astro.com.my/vsg/41kg41I1M694jfjnbJ3EsM49yxyBEEOhnm8bpOnr2_IRU=iNmK/dash-wv/jitp-dashisowm/2400/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5103
+https://malay.yurendtv.biz.id/dash-wv/linear/5103/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC OTT
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
