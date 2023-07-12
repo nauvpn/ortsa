@@ -51,20 +51,20 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malay" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/809
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5001
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5001/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="Malay" ch-number="102" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/707
-https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5002
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5002/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malay" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5005
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5005/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="Malay" ch-number="102" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5006
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5006/default_primary.mpd
