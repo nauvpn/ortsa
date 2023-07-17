@@ -106,6 +106,11 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
 
+#EXTINF:-1 tvg-id="AstroVellithiraiHD" ch-number="203" group-title="Indian" tvg-logo="src="http://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png"",203 Astro Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
