@@ -989,13 +989,13 @@ https://1.yurend.xyz/dash-wv/linear/2506/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
 http://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
-#EXTINF: -1 tvg-id="W-Sport" group-title="Sports" ch-number="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png",815 W-Sport
+#EXTINF: -1 tvg-id="W-Sport" group-title="Sports" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",815 W-Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5060
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
 https://1.yurend.xyz/dash-wv/linear/5060/default.mpd
 
-#EXTINF: -1 tvg-id="W-Sport" group-title="Sports" ch-number="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png",815 W-Sport (Sooka)
+#EXTINF: -1 tvg-id="W-Sport" group-title="Sports" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",815 W-Sport (Sooka)
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4OTc2NTA5MywiaWF0IjoxNjg5MTYxMDkzfQ.fvND4TkGCZeUstbKbtlQTzenlNdyNcLPoTYJ6dVrfL0"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
